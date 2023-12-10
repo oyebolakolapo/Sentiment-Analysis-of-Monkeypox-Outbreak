@@ -1,1 +1,1 @@
-# Sentiment-Analysis-of-Monkeypox-Outbreak
+# Sentiment-Analysis-of-2022-Monkeypox-Outbreak
